@@ -1,0 +1,5 @@
+I have come accross many manga websites where the images are not in the right order, this also makes it a pain to read. Usually I have to download the pages and reorganize them. So instead of manually doing the downloads this script allows the downloading part to happen automatically with
+a few inputs.
+
+
+**As always respect robots.txt for any website**
